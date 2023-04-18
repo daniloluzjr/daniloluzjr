@@ -16,6 +16,7 @@ I'm studying HTML, CSS, JavaScript and Python, I would like to face new challeng
   <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width='50px'/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width='50px'/>
   <img src="https://www.adobe.com/content/dam/cc/tnt/emea/emea0856/photoshop.svg" width='50px'/>
+  
 </p>
 
 ## Follow my journey! 📫
