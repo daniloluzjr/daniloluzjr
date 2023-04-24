@@ -27,5 +27,5 @@ I'm studying HTML, CSS, JavaScript and Python, I would like to face new challeng
   <a href = "mailto:danilojun@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/professorluz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  my portifolio: www.daniloluz.tech
+ 👨‍💻 my portifolio: www.daniloluz.tech
 </div>
