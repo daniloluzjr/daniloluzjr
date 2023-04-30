@@ -13,6 +13,7 @@ I'm studying HTML, CSS, JavaScript and Python, I would like to face new challeng
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width='50px'/>
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width='50px'/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width='50px'/>
+  <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" width=50px'/>
   <img src="https://www.adobe.com/content/dam/cc/tnt/emea/emea0856/photoshop.svg" width='50px'/>
   
 </p>
