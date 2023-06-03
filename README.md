@@ -12,9 +12,6 @@ I'm studying HTML, CSS, JavaScript and Python, I would like to face new challeng
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width='50px' height="50"/>
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width='50px' height="50"/>
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width='50px' height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width='50px' height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/111px-Dart-logo-icon.svg.png?20220708094810" width=50px' height="50"/>
-  <img src="https://storage.googleapis.com/cms-storage-bucket/4fd5520fe28ebf839174.svg" width='50px' height="50"/>                                                
   <img src="https://www.adobe.com/content/dam/cc/tnt/emea/emea0856/photoshop.svg" width='50px' height="50"/>
   
 </p>
