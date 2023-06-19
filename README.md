@@ -1,7 +1,7 @@
 ## Welcome to my profile! 👋
 <div>
 <p align="justify">
-A dedicated IT student at Anhanguera College and Alura Programming School. I've worked for many years in the Healthcare field and now I'm currently transitioning my career back into IT. <s>I love computers since I took the first Dos, Lotus123 and Wordstar Certification and I've been using since 486 with floppy disks</s>. I worked with Photoshop producing posters, cards and invitations.
+A dedicated IT student at Anhanguera College and Alura Programming School. I've worked for many years in the Healthcare field and now I'm currently transitioning my career back into IT. <s>I love computers since I took the first Dos, Lotus123 and Wordstar Certification </s>. I worked with Photoshop producing posters, cards and invitations.
 I'm studying HTML, CSS, JavaScript and Figma, I would like to face new challenges and I'm looking for an opportunity to help and learn in a new company.
 </p>
 </div>
